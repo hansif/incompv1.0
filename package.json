@@ -1,0 +1,19 @@
+{
+    "name": "accelothon",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Darshan.P",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Darshan-P2331/accelothon.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Darshan-P2331/accelothon/issues"
+    },
+    "homepage": "https://github.com/Darshan-P2331/accelothon#readme",
+    "description": ""
+  }
